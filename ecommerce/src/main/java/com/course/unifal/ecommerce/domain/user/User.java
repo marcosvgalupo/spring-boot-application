@@ -1,4 +1,4 @@
-package com.course.unifal.ecommerce;
+package com.course.unifal.ecommerce.domain.user;
 
 import lombok.Data;
 
@@ -7,6 +7,4 @@ public class User {
     private String user;
     private String password;
     private String role;
-
-
 }
